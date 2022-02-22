@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 135,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 123,
+    "timeDay": 126,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
-    "name": "SimpleisIt",
+    "name": "simpleisIt",
     "url": "https://simpleisit.tistory.com",
     "icon": "https://favicons.githubusercontent.com/simpleisit.tistory.com",
     "slug": "simpleis-it",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2040,
-    "timeDay": 2040,
-    "timeWeek": 2040,
-    "timeMonth": 2040,
-    "timeYear": 2040,
+    "time": 2079,
+    "timeDay": 2079,
+    "timeWeek": 2079,
+    "timeMonth": 2079,
+    "timeYear": 2079,
     "dailyMinutesDown": {}
   }
 ]
