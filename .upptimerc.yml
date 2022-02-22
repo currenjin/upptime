@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Currenjin's Wiki
     url: https://currenjin.github.io
+  - name: SimpleisIT
+    url: https://simpleisit.tistory.com
 
 status-website:
   baseUrl: upptime
