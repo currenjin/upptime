@@ -22,19 +22,19 @@
     "url": "https://simpleisit.tistory.com",
     "icon": "https://favicons.githubusercontent.com/simpleisit.tistory.com",
     "slug": "currenjin-s-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1742,
-    "timeDay": 1584,
-    "timeWeek": 2006,
-    "timeMonth": 1879,
-    "timeYear": 1742,
+    "time": 1744,
+    "timeDay": 1768,
+    "timeWeek": 2000,
+    "timeMonth": 1881,
+    "timeYear": 1744,
     "dailyMinutesDown": {
-      "2022-06-02": 0
+      "2022-06-02": 5
     }
   }
 ]
