@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 164,
-    "timeWeek": 92,
-    "timeMonth": 102,
+    "timeDay": 57,
+    "timeWeek": 86,
+    "timeMonth": 100,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,15 @@
     "slug": "currenjin-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1744,
-    "timeDay": 1768,
-    "timeWeek": 2000,
-    "timeMonth": 1881,
-    "timeYear": 1744,
-    "dailyMinutesDown": {
-      "2022-06-02": 5
-    }
+    "time": 1745,
+    "timeDay": 1899,
+    "timeWeek": 1984,
+    "timeMonth": 1893,
+    "timeYear": 1745,
+    "dailyMinutesDown": {}
   }
 ]
