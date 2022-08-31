@@ -22,7 +22,7 @@
     "url": "https://simpleisit.tistory.com",
     "icon": "https://favicons.githubusercontent.com/simpleisit.tistory.com",
     "slug": "currenjin-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 2005,
     "timeMonth": 1984,
     "timeYear": 1812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   }
 ]
