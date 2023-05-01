@@ -4,19 +4,19 @@
     "url": "https://currenjin.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/currenjin.github.io.ico",
     "slug": "currenjin-s-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 76,
-    "timeWeek": 101,
-    "timeMonth": 110,
+    "timeDay": 66,
+    "timeWeek": 95,
+    "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2023-05-01": 0
+      "2023-05-01": 6
     }
   },
   {
