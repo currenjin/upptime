@@ -6,9 +6,9 @@
     "slug": "currenjin-s-wiki",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 76,
@@ -16,7 +16,7 @@
     "timeMonth": 71,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 20
     }
   },
   {
