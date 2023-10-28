@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 46,
-    "timeWeek": 76,
-    "timeMonth": 95,
+    "timeDay": 85,
+    "timeWeek": 83,
+    "timeMonth": 96,
     "timeYear": 97,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/simpleisit.tistory.com.ico",
     "slug": "currenjin-s-blog",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
-    "time": 2025,
-    "timeDay": 2040,
-    "timeWeek": 1688,
-    "timeMonth": 1748,
-    "timeYear": 1905,
+    "time": 2024,
+    "timeDay": 1726,
+    "timeWeek": 1689,
+    "timeMonth": 1741,
+    "timeYear": 1880,
     "dailyMinutesDown": {
       "2023-07-24": 149,
       "2023-07-23": 1440,
@@ -46,8 +46,7 @@
       "2023-07-17": 16,
       "2023-05-02": 30,
       "2022-10-31": 105,
-      "2022-10-30": 64,
-      "2022-10-28": 75
+      "2022-10-30": 64
     }
   }
 ]
