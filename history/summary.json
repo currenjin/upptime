@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 219,
-    "timeWeek": 126,
-    "timeMonth": 144,
-    "timeYear": 128,
+    "time": 121,
+    "timeDay": 241,
+    "timeWeek": 153,
+    "timeMonth": 147,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,19 @@
     "url": "https://simpleisit.tistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/simpleisit.tistory.com.ico",
     "slug": "currenjin-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1775,
-    "timeDay": 1872,
-    "timeWeek": 1777,
+    "timeDay": 1445,
+    "timeWeek": 1692,
     "timeMonth": 1763,
-    "timeYear": 1815,
+    "timeYear": 1813,
     "dailyMinutesDown": {
+      "2025-09-21": 0,
       "2024-12-09": 18
     }
   }
