@@ -24,17 +24,17 @@
     "slug": "currenjin-s-blog",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 1775,
     "timeDay": 1445,
     "timeWeek": 1692,
     "timeMonth": 1763,
     "timeYear": 1813,
     "dailyMinutesDown": {
-      "2025-09-21": 0,
+      "2025-09-21": 62,
       "2024-12-09": 18
     }
   }
