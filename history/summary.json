@@ -22,20 +22,21 @@
     "url": "https://simpleisit.tistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/simpleisit.tistory.com.ico",
     "slug": "currenjin-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.10%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.90%",
-    "time": 1718,
+    "time": 1717,
     "timeDay": 2054,
     "timeWeek": 1842,
     "timeMonth": 1727,
-    "timeYear": 1702,
+    "timeYear": 1701,
     "dailyMinutesDown": {
       "2025-11-25": 36,
-      "2026-11-19": 493
+      "2026-11-19": 493,
+      "2026-11-21": 0
     }
   }
 ]
